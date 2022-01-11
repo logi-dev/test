@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "displayName": "test",
+  "description": "설명",
+  "version": "1.0.0",
+  "unity": "2021.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logi-dev/test.git"
+  },
+  "author": {
+    "name": "funi",
+    "email": "",
+    "url": "https://github.com/logi-dev"
+  },
+  "dependencies": {},
+  "keywords": [
+    "ui",
+    "effect"
+  ],  
+}
